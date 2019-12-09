@@ -1,0 +1,9 @@
+HTTP/1.1 304 Not Modified
+Last-Modified: Fri, 06 May 2016 11:37:02 GMT
+Content-Type: image/jpeg
+Timing-Allow-Origin: *
+Access-Control-Allow-Origin: *
+Expires: Wed, 20 Jul 2016 08:37:58 GMT
+Cache-Control: max-age=1209600, no-transform
+Date: Tue, 26 Jul 2016 16:09:54 GMT
+Connection: keep-alive
